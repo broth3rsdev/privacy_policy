@@ -5,7 +5,7 @@ lang: en
 
 # Privacy Policy for Pocket BGG
 
-**Last updated:** 12 August 2026
+**Last updated:** 13 August 2026
 
 Pocket BGG is a free, unofficial mobile client for BoardGameGeek, developed by broth3rsdev. This policy explains what happens to your data when you use it.
 
