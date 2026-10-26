@@ -11,7 +11,7 @@ Wordminator ist ein kostenloses Wortspiel mit vier Minispielen in fünf Sprachen
 
 ## Zusammenfassung
 
-Es gibt kein Konto und keine Anmeldung. Wordminator enthält keine Analyse-, Absturzmelde-, Werbe- oder Tracking-SDKs. Ich betreibe keine Server und erhalte deine personenbezogenen Daten nie. Alles, was sich das Spiel über dich merkt - deine Punktzahlen, Erfolge, Serien und Einstellungen - bleibt auf deinem Gerät.
+Es gibt kein Konto und keine Anmeldung. Wordminator enthält keine Analyse-, Absturzmelde-, Werbe- oder Tracking-SDKs. Wir betreiben keine Server und erhalten deine personenbezogenen Daten nie. Alles, was sich das Spiel über dich merkt - deine Punktzahlen, Erfolge, Serien und Einstellungen - bleibt auf deinem Gerät.
 
 Das Spiel geht in genau einem Fall online: Wenn du die Definition eines Wortes abrufst, das im mitgelieferten Wörterbuch nicht definiert ist, schlägt es das Wort im Wiktionary nach. Diese Anfrage geht direkt von deinem Gerät an die Wikimedia Foundation, genau so, als hättest du die Seite selbst geöffnet. Sonst verlässt nichts dein Gerät.
 
@@ -24,7 +24,7 @@ Das Spiel speichert Folgendes lokal in seinem privaten App-Speicher:
 - Deine Einstellungen: Sprache der Oberfläche, Musik- und Soundlautstärke, Vibration, das Design sowie die zuletzt gewählte Wörterbuchsprache, die Einstellung für diakritische Zeichen und den Schwierigkeitsgrad jedes Spiels.
 - Die Wörterbücher selbst, die beim ersten Start aus der App entpackt werden, sowie alle aus dem Wiktionary abgerufenen Definitionen, damit dasselbe Wort beim nächsten Mal offline erscheint.
 
-Nichts davon wird an mich übermittelt. Das Spiel ist von der automatischen Android-Sicherung ausgenommen, es wird also auch nichts in eine Cloud-Sicherung kopiert. Wenn du das Spiel deinstallierst oder seinen Speicher in den Systemeinstellungen löschst, wird all das entfernt.
+Nichts davon wird an uns übermittelt. Das Spiel ist von der automatischen Android-Sicherung ausgenommen, es wird also auch nichts in eine Cloud-Sicherung kopiert. Wenn du das Spiel deinstallierst oder seinen Speicher in den Systemeinstellungen löschst, wird all das entfernt.
 
 ## An Dritte gesendete Informationen
 
@@ -39,7 +39,7 @@ Das ist die vollständige Liste. Das Spiel lädt keine Inhalte aus dem Netz nach
 
 Es gibt keine. Das Spiel enthält keine Analyse-, Telemetrie-, Attributions- oder Werbe-SDKs, und es werden nirgendwohin Absturzberichte übertragen. Diagnoseprotokolle existieren nur im Arbeitsspeicher, solange das Spiel läuft.
 
-Wenn du den Feedback-Link in den Einstellungen nutzt, öffnet sich deine E-Mail-App mit meiner Adresse und einem vorausgefüllten Betreff. Es wird nichts gesendet, bevor du es selbst abschickst, und du kannst vorher alles bearbeiten oder löschen.
+Wenn du den Feedback-Link in den Einstellungen nutzt, öffnet sich deine E-Mail-App mit unserer Adresse und einem vorausgefüllten Betreff. Es wird nichts gesendet, bevor du es selbst abschickst, und du kannst vorher alles bearbeiten oder löschen.
 
 ## Cookies
 
@@ -54,19 +54,19 @@ Das Spiel fordert keinen Zugriff auf Standort, Kontakte, Mikrofon, Kamera, Speic
 
 ## Rechtsgrundlage und deine Rechte (EWR/Vereinigtes Königreich)
 
-Soweit die DSGVO gilt, erfolgt die einzige Verarbeitung außerhalb deines Geräts - das Nachschlagen im Wiktionary - auf deine Anfrage hin, wenn du auf ein Wort tippst, und stützt sich auf das berechtigte Interesse, dir die gewünschte Definition anzuzeigen. Es gibt kein Konto, und ich besitze keine Kopie deiner Daten; Anfragen auf Auskunft, Berichtigung, Löschung, Übertragbarkeit oder Widerspruch erfüllst du daher auf deinem Gerät, indem du den Speicher des Spiels löschst oder es deinstallierst. Anfragen zu Daten, die die Wikimedia Foundation oder Google halten, richte bitte an diese. Du kannst dich bei deiner zuständigen Datenschutzaufsichtsbehörde beschweren.
+Soweit die DSGVO gilt, erfolgt die einzige Verarbeitung außerhalb deines Geräts - das Nachschlagen im Wiktionary - auf deine Anfrage hin, wenn du auf ein Wort tippst, und stützt sich auf das berechtigte Interesse, dir die gewünschte Definition anzuzeigen. Es gibt kein Konto, und wir besitzen keine Kopie deiner Daten; Anfragen auf Auskunft, Berichtigung, Löschung, Übertragbarkeit oder Widerspruch erfüllst du daher auf deinem Gerät, indem du den Speicher des Spiels löschst oder es deinstallierst. Anfragen zu Daten, die die Wikimedia Foundation oder Google halten, richte bitte an diese. Du kannst dich bei deiner zuständigen Datenschutzaufsichtsbehörde beschweren.
 
 ## Verkauf personenbezogener Daten
 
-Ich verkaufe oder teile deine personenbezogenen Daten nicht und habe das nie getan. Das schließt „Verkauf“ und „Weitergabe“ im Sinne des California Consumer Privacy Act ein.
+Wir verkaufen oder teilen deine personenbezogenen Daten nicht und haben das nie getan. Das schließt „Verkauf“ und „Weitergabe“ im Sinne des California Consumer Privacy Act ein.
 
 ## Aufbewahrung und Löschung
 
-Ich bewahre nichts auf, weil ich nichts erhalte. Lokal gespeicherte Daten bleiben erhalten, bis du den Speicher des Spiels löschst oder es deinstallierst.
+Wir bewahren nichts auf, weil wir nichts erhalten. Lokal gespeicherte Daten bleiben erhalten, bis du den Speicher des Spiels löschst oder es deinstallierst.
 
 ## Datenschutz für Kinder
 
-Wordminator ist ein Wortspiel für alle Altersgruppen. Es erhebt von niemandem personenbezogene Daten, auch nicht von Kindern, und hat keinen Chat, keine Konten, keine Werbung und keine Käufe. Wenn du als Elternteil oder erziehungsberechtigte Person ein Anliegen hast, schreib mir an die unten stehende Adresse.
+Wordminator ist ein Wortspiel für alle Altersgruppen. Es erhebt von niemandem personenbezogene Daten, auch nicht von Kindern, und hat keinen Chat, keine Konten, keine Werbung und keine Käufe. Wenn du als Elternteil oder erziehungsberechtigte Person ein Anliegen hast, schreib uns an die unten stehende Adresse.
 
 ## Sicherheit
 
@@ -74,7 +74,7 @@ Die vom Spiel gespeicherten Daten liegen in seinem privaten Speicherbereich, ges
 
 ## Änderungen dieser Erklärung
 
-Ich kann diese Erklärung aktualisieren, wenn sich das Spiel ändert, zum Beispiel wenn ein Online-Mehrspielermodus hinzukommt. Die überarbeitete Fassung wird auf dieser Seite mit neuem Datum unter „Zuletzt aktualisiert“ veröffentlicht und gilt ab der Veröffentlichung.
+Wir können diese Erklärung aktualisieren, wenn sich das Spiel ändert, zum Beispiel wenn ein Online-Mehrspielermodus hinzukommt. Die überarbeitete Fassung wird auf dieser Seite mit neuem Datum unter „Zuletzt aktualisiert“ veröffentlicht und gilt ab der Veröffentlichung.
 
 ## Kontakt
 

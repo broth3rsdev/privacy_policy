@@ -11,7 +11,7 @@ Wordminator est un jeu de mots gratuit composé de quatre mini-jeux en cinq lang
 
 ## Résumé
 
-Il n'y a ni compte ni connexion. Wordminator ne contient aucun outil d'analyse, de rapport de plantage, de publicité ou de suivi. Je n'exploite aucun serveur et je ne reçois jamais vos données personnelles. Tout ce que le jeu retient de vous - vos scores, succès, séries et réglages - reste sur votre appareil.
+Il n'y a ni compte ni connexion. Wordminator ne contient aucun outil d'analyse, de rapport de plantage, de publicité ou de suivi. Nous n'exploitons aucun serveur et ne recevons jamais vos données personnelles. Tout ce que le jeu retient de vous - vos scores, succès, séries et réglages - reste sur votre appareil.
 
 Le jeu se connecte à internet dans un seul cas : lorsque vous demandez la définition d'un mot que le dictionnaire intégré ne définit pas, il le recherche sur le Wiktionnaire. Cette requête part directement de votre appareil vers la Wikimedia Foundation, exactement comme si vous aviez ouvert la page vous-même. Rien d'autre ne quitte jamais votre appareil.
 
@@ -24,7 +24,7 @@ Le jeu stocke les éléments suivants localement, dans son espace de stockage pr
 - Vos réglages : langue de l'interface, volume de la musique et des effets, vibrations, thème, ainsi que la dernière langue de dictionnaire, l'option des accents et la difficulté choisies pour chaque jeu.
 - Les dictionnaires eux-mêmes, extraits de l'application au premier lancement, ainsi que les définitions récupérées sur le Wiktionnaire, conservées pour que le même mot s'ouvre hors ligne la fois suivante.
 
-Rien de tout cela ne m'est transmis. Le jeu est exclu de la sauvegarde automatique d'Android, donc rien n'est copié non plus dans une sauvegarde en ligne. Désinstaller le jeu, ou effacer ses données dans les réglages du système, supprime tout ce qui précède.
+Rien de tout cela ne nous est transmis. Le jeu est exclu de la sauvegarde automatique d'Android, donc rien n'est copié non plus dans une sauvegarde en ligne. Désinstaller le jeu, ou effacer ses données dans les réglages du système, supprime tout ce qui précède.
 
 ## Informations envoyées à des tiers
 
@@ -39,7 +39,7 @@ C'est la liste complète. Le jeu ne charge aucun contenu distant, n'interroge au
 
 Il n'y en a pas. Le jeu ne contient aucun outil d'analyse, de télémétrie, d'attribution ou de publicité, et aucun rapport de plantage n'est transmis où que ce soit. Les journaux de diagnostic n'existent qu'en mémoire pendant que le jeu tourne.
 
-Si vous utilisez le lien de contact dans les Réglages, votre application de messagerie s'ouvre avec mon adresse et l'objet déjà remplis. Rien n'est envoyé tant que vous ne l'envoyez pas vous-même, et vous pouvez tout modifier ou supprimer avant.
+Si vous utilisez le lien de contact dans les Réglages, votre application de messagerie s'ouvre avec notre adresse et l'objet déjà remplis. Rien n'est envoyé tant que vous ne l'envoyez pas vous-même, et vous pouvez tout modifier ou supprimer avant.
 
 ## Cookies
 
@@ -54,19 +54,19 @@ Le jeu ne demande aucun accès à la position, aux contacts, au micro, à l'appa
 
 ## Base légale et vos droits (EEE/Royaume-Uni)
 
-Lorsque le RGPD s'applique, le seul traitement que le jeu effectue en dehors de votre appareil - la recherche sur le Wiktionnaire - a lieu à votre demande, lorsque vous touchez un mot, et repose sur l'intérêt légitime de vous afficher la définition demandée. Il n'y a pas de compte et je ne détiens aucune copie de vos données ; les demandes d'accès, de rectification, d'effacement, de portabilité ou d'opposition sont donc satisfaites sur votre appareil en effaçant les données du jeu ou en le désinstallant. Les demandes concernant des données détenues par la Wikimedia Foundation ou Google doivent leur être adressées. Vous pouvez introduire une réclamation auprès de votre autorité de protection des données.
+Lorsque le RGPD s'applique, le seul traitement que le jeu effectue en dehors de votre appareil - la recherche sur le Wiktionnaire - a lieu à votre demande, lorsque vous touchez un mot, et repose sur l'intérêt légitime de vous afficher la définition demandée. Il n'y a pas de compte et nous ne détenons aucune copie de vos données ; les demandes d'accès, de rectification, d'effacement, de portabilité ou d'opposition sont donc satisfaites sur votre appareil en effaçant les données du jeu ou en le désinstallant. Les demandes concernant des données détenues par la Wikimedia Foundation ou Google doivent leur être adressées. Vous pouvez introduire une réclamation auprès de votre autorité de protection des données.
 
 ## Vente d'informations personnelles
 
-Je ne vends ni ne partage vos informations personnelles, et je ne l'ai jamais fait. Cela inclut la « vente » et le « partage » au sens du California Consumer Privacy Act.
+Nous ne vendons ni ne partageons vos informations personnelles, et ne l'avons jamais fait. Cela inclut la « vente » et le « partage » au sens du California Consumer Privacy Act.
 
 ## Conservation et suppression des données
 
-Je ne conserve rien, puisque je ne reçois rien. Les données stockées localement sont conservées jusqu'à ce que vous effaciez les données du jeu ou le désinstalliez.
+Nous ne conservons rien, puisque nous ne recevons rien. Les données stockées localement sont conservées jusqu'à ce que vous effaciez les données du jeu ou le désinstalliez.
 
 ## Vie privée des enfants
 
-Wordminator est un jeu de mots adapté à tous les âges. Il ne collecte d'informations personnelles auprès de personne, enfants compris, et n'a ni messagerie, ni comptes, ni publicité, ni achats. Si vous êtes parent ou tuteur et avez une question, écrivez-moi à l'adresse ci-dessous.
+Wordminator est un jeu de mots adapté à tous les âges. Il ne collecte d'informations personnelles auprès de personne, enfants compris, et n'a ni messagerie, ni comptes, ni publicité, ni achats. Si vous êtes parent ou tuteur et avez une question, écrivez-nous à l'adresse ci-dessous.
 
 ## Sécurité
 
@@ -74,7 +74,7 @@ Les données stockées par le jeu se trouvent dans son espace de stockage privé
 
 ## Modifications de cette politique
 
-Je peux mettre à jour cette politique au fil des évolutions du jeu, par exemple si un mode multijoueur en ligne est ajouté. La version révisée sera publiée sur cette page avec une nouvelle date de « Dernière mise à jour » et prendra effet dès sa publication.
+Nous pouvons mettre à jour cette politique au fil des évolutions du jeu, par exemple si un mode multijoueur en ligne est ajouté. La version révisée sera publiée sur cette page avec une nouvelle date de « Dernière mise à jour » et prendra effet dès sa publication.
 
 ## Contact
 
